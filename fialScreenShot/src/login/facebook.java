@@ -31,7 +31,7 @@ public class facebook {
   public void f() throws Exception {
 	  PropertyConfigurator.configure("log4j.properties");
 	   driver=new FirefoxDriver();
-	   logger.info("Opening Browser");
+	   logger.info("Opening is Browser");
 	  
 	  driver.navigate().to("https://www.facebook.com/");
 	  logger.info("App Launched");
