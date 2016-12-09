@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="FACEBOOK">
+
+<test name="Facebook Login">
+<classes>
+<class name="login.facebook">
+
+</class>
+</classes>
+</test>
+
+</suite>

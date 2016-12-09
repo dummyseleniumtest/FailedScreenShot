@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [FACEBOOK]">
+  <test name="Facebook Login(failed)">
+    <classes>
+      <class name="login.facebook">
+        <methods>
+          <include name="afterMethod"/>
+          <include name="f"/>
+        </methods>
+      </class> <!-- login.facebook -->
+    </classes>
+  </test> <!-- Facebook Login(failed) -->
+</suite> <!-- Failed suite [FACEBOOK] -->
