@@ -36,7 +36,7 @@ public class facebook {
 	  driver.navigate().to("https://www.facebook.com/");
 	  logger.info("App Launched");
 	  driver.manage().window().maximize();
-	  logger.info("Window Maximized");
+	  logger.info("Window is Maximized");
 	  driver.findElement(By.xpath("//*[@id='emailsssss']")).sendKeys("facebook login");
 	  
 	  logger.info("Enter UserName");
